@@ -3,6 +3,11 @@ sql-lesson
 
 some sample databases for teaching SQL
 
+Editor
+======
+
+http://sqlitestudio.pl/?act=download
+
 Language Spec
 =============
 
